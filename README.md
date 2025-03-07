@@ -7,7 +7,7 @@
 </head>
 <body>
     <body>
-        <h1>بحبك مووت احياتي </h1>
+        <h1 width="center">بحبك مووت احياتي </h1>
         <div class="love">
             <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-225.gif" height="200" alt="hugs">
             <h2>I Love You Babby</h2>
